@@ -5,7 +5,7 @@
 [//]: # (<p align="left"> <img src="https://komarev.com/ghpvc/?username=bathiya-94&label=Profile%20views&color=0e75b6&style=flat" alt="bathiya-94" /> </p>)
 
 - 🔭 I’m currently working for **Pagero AB, Sweden**
-- 📚  I have completed by Bachelors in Electrical and Information Engineering and pursuing a Post-grad diploma  in Computer Science.
+- 📚  I have completed my Bachelors in Electrical and Information Engineering and pursuing a Post-grad diploma  in Computer Science.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
