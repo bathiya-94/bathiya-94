@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Bathiya Thennakoon</h1>
-<h3 align="center">A software engineer from Sri Lanka, who tries to the make world better place with tech</h3>
+<h3 align="center">Software Engineer from Sri Lanka</h3>
 
 [//]: # (<p align="left"> <img src="https://komarev.com/ghpvc/?username=bathiya-94&label=Profile%20views&color=0e75b6&style=flat" alt="bathiya-94" /> </p>)
 
