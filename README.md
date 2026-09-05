@@ -49,6 +49,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bathiya-94&show_icons=true&theme=tokyonight" alt="Bathiya's GitHub stats" />
-</p>
