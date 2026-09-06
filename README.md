@@ -16,7 +16,7 @@
 - 💻 **Main Stack:** Go, Java, Scala, Python, AWS, PostgreSQL, Apache Kafka, Redis.
 - 🎓 **Education:** 
   - **Graduate Diploma in Computer Science** (GPA: 3.82/4.20) – *University of Moratuwa*
-  - **B.Sc. Eng (Hons.) in Electrical and Information Engineering** (GPA: 3.33/4.00) – *University of Ruhuna*[cite: 1, 2]
+  - **B.Sc. Eng (Hons.) in Electrical and Information Engineering** (GPA: 3.33/4.00) – *University of Ruhuna*
 - 📜 **Research:** Published author at IEEE GLOBECOM 2020 on LSTM-based traffic prediction models.
 
 ---
@@ -27,16 +27,16 @@
 `Go (Gin)` • `Java (Spring Boot)` • `Scala (Akka HTTP)` • `Python` • `JavaScript` • `SQL`
 
 **Architecture & Distributed Systems**
-`Microservices` • `Hexagonal Architecture` • `Event-Driven Architecture` • `Apache Kafka` • `RabbitMQ` • `REST APIs` • `Protobuf`[cite: 1, 3]
+`Microservices` • `Hexagonal Architecture` • `Event-Driven Architecture` • `Apache Kafka` • `RabbitMQ` • `REST APIs` • `Protobuf`
 
 **Databases & Caching**
-`PostgreSQL` • `Redis` • `Cassandra` • `Elasticsearch` • `CockroachDB` • `MongoDB`[cite: 1]
+`PostgreSQL` • `Redis` • `Cassandra` • `Elasticsearch` • `CockroachDB` • `MongoDB`
 
 **Cloud, DevOps & Observability**
-`AWS (ECS, EventBridge, API Gateway, S3)` • `Docker` • `CI/CD` • `Grafana` • `Datadog` • `Prometheus`[cite: 1]
+`AWS (ECS, EventBridge, API Gateway, S3)` • `Docker` • `CI/CD` • `Grafana` • `Datadog` • `Prometheus`
 
 **AI-Assisted Engineering & Data Science**
-`GitHub Copilot` • `MCP (Model Context Protocol)` • `PyTorch` • `Scikit-Learn` • `ChromaDB (RAG)`[cite: 1]
+`GitHub Copilot` • `MCP (Model Context Protocol)` • `PyTorch` • `Scikit-Learn` • `ChromaDB (RAG)`
 
 ---
 
